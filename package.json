@@ -1,7 +1,7 @@
 {
   "name": "homebridge-remote-air-quality-http",
   "version": "0.0.3",
-  "description": "Http Air Quality plugin for Homebridge",
+  "description": "Http Air Quality plugin for Homebridge with Airgradient Support (Requires my Air Gradient sketch)",
   "license": "Apache-2.0",
   "keywords": [
     "homebridge-plugin",
@@ -13,11 +13,11 @@
     "node": ">=6.4.0",
     "homebridge": ">=0.4.0"
   },
-  "author": "Ales Farcnik",
-  "homepage": "https://github.com/alesf/homebridge-http-air-quality",
+  "author": "SirChronicles",
+  "homepage": "https://github.com/SirChronicles/homebridge-http-air-quality",
   "repository": {
     "type": "git",
-    "url": "git://github.com/alesf/homebridge-http-air-quality.git"
+    "url": "git://github.com/SirChronicles/homebridge-http-air-quality.git"
   },
   "main": "index.js",
   "dependencies": {
